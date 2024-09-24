@@ -1,0 +1,16 @@
+3
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+3 0 0 0 3 
+3 3 0 3 3 
+Player 1 Type: human
+Player 2 Type: ai
+{"player": 1, "move": [0, 0]}
+{"player": 2, "move": "TLE"}
+Game Over
+Winner: Player 1
+Structure Formed: None
+Winning Path: []
+Player 1 Time Remaining: 3.0893046855926514 s
+Player 2 Time Remaining: 0.0 s
