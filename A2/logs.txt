@@ -1,16 +1,15 @@
-3
-0 0 0 0 0 
-0 0 0 0 0 
-0 0 0 0 0 
-3 0 0 0 3 
-3 3 0 3 3 
-Player 1 Type: human
+2
+0 0 0 
+0 0 0 
+3 0 3 
+Player 1 Type: random
 Player 2 Type: ai
-{"player": 1, "move": [0, 0]}
-{"player": 2, "move": "TLE"}
+{"player": 1, "move": [0, 1]}
+{"player": 2, "move": [1, 2]}
+{"player": 1, "move": [0, 2]}
 Game Over
 Winner: Player 1
-Structure Formed: None
-Winning Path: []
-Player 1 Time Remaining: 3.0893046855926514 s
-Player 2 Time Remaining: 0.0 s
+Structure Formed: bridge
+Winning Path: [(0, 2), (0, 1)]
+Player 1 Time Remaining: 39.98002624511719 s
+Player 2 Time Remaining: 39.999359130859375 s
